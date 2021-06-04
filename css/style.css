@@ -27,6 +27,9 @@ body{
     width: 25%;
     padding: 0 15px;
 }
+.header{
+    text-align: center;
+}
 .team{
     background: rgba(0, 0, 0, 0.75) url("../images/bg.png") no-repeat center/cover;
     background-blend-mode: darken;
